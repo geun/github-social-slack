@@ -19,6 +19,7 @@
     "debug": "^2.6.1",
     "lodash": "^4.17.4",
     "moment": "^2.17.1",
+    "octonode": "^0.7.12",
     "superagent": "^3.5.0",
     "throng": "^4.0.0",
     "thunkify-wrap": "^1.0.4"
